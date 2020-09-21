@@ -8,8 +8,8 @@ let photosArray = [];
 
 // Unsplash Api
 const per_page= 30;
-const apiKey = 'D69F1bwk3qZqCBC9fiR2kIi24chuIb_yPIePVUyCXuM';
-const secretKey = 'wxIMembB8RK4WOct2SHl4Y3M5_PKrPnNmnD1OShYcxU';
+const apiKey = 'D69F1bwk3qZqCBC9fiR2kIi24chuIb_yPIePVUyCXuM'; // don't use this.
+
 
 // const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
